@@ -23,4 +23,4 @@
 
 ### 🗄️ databases
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asasinmode&layout=compact&bg_color=0d1117&border_color=b366ff&text_color=fff&title_color=9f80ff">
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asasinmode&layout=compact&bg_color=0d1117&border_color=b366ff&text_color=fff&title_color=9f80ff">](#)
