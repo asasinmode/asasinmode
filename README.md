@@ -1,5 +1,5 @@
 <h1 align="center">I'm Stanisław Perek</h1>
-<h3 align="center">I'm a student, IT technician and an aspiring web developer</h3>
+<h3 align="center">student, IT technician, aspiring web developer</h3>
 
 ## 😎 about me
 - 📜 [certificated](https://twoj-europass.org.pl/wp-content/uploads/2020/03/351203-Technik-informatyk_en.pdf) IT technician
