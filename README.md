@@ -1,11 +1,9 @@
 <h1 align="center">I'm Stanisław Perek</h1>
-<h3 align="center">student, IT technician, aspiring web developer</h3>
+<h3 align="center">aspiring web developer</h3>
 
 ## 😎 about me
-- 📜 [certificated](https://twoj-europass.org.pl/wp-content/uploads/2020/03/351203-Technik-informatyk_en.pdf) IT technician
-- 🎓 first year Physical Education at University of Physical Education.
-- ✨ fullstack but prefers frontend
-- 🎨 designer at heart
+- ✨ fullstack but I prefer frontend
+- 💡 experimenting with design and freelancing
 
 ## 🧑‍💻 technologies I use
 
