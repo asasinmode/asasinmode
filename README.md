@@ -3,7 +3,7 @@
 
 ## 😎 about me
 - ✨ fullstack but I prefer frontend
-- 💡 experimenting with design and freelancing
+- 💡 experimenting with design
 
 ## 🧑‍💻 technologies I use
 
