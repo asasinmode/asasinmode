@@ -4,7 +4,7 @@
 ## 😎 about me
 - ✨ fullstack but I prefer frontend
 - 🎨 I like designing & implementing UI
-- ⏱️ The smallest number of divs used any %
+- ⏱️ The smallest number of divs used speedrun any %
 
 ## 🧑‍💻 technologies I use
 
