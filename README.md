@@ -4,7 +4,8 @@
 ## 😎 about me
 - ✨ fullstack but I prefer frontend
 - 🎨 I like designing & implementing UI
-- ⏱️ The smallest number of divs used speedrun any %
+- ⏱️ Building interfaces with the smallest number of divs used speedrun any %
+- 🧑‍🍳 [I enjoy cooking](https://github.com/asasinmode/recipemode)
 
 ## 🧑‍💻 technologies I use
 
