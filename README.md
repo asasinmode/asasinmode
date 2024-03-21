@@ -2,10 +2,10 @@
 <h3 align="center">aspiring web developer</h3>
 
 ## 😎 about me
+- 🎮 Currently making minecraft mods and sharing the process on [twitch](https://twitch.tv/asasinmode)
 - ✨ fullstack but I prefer frontend
 - 🎨 I like designing & implementing UI
 - 🧑‍🍳 [I enjoy cooking](https://github.com/asasinmode/recipemode)
-- 🎮 Delving into minecraft modding
 
 <p align="center">
 <a href="https://twitter.com/asasinmode"><img alt="twitter" height="48px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg"></a>
