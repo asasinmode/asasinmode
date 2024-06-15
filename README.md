@@ -2,7 +2,7 @@
 <h3 align="center"><a href="https://asasinmode.com/" target="_blank">web developer</a></h3>
 
 ## 😎 about me
-- 🎮 Currently making minecraft mods and sharing the process on [twitch](https://twitch.tv/asasinmode)
+- 🎮 Currently making an auto battler and sharing the process on [twitch](https://twitch.tv/asasinmode)
 - ✨ fullstack but I prefer frontend
 - 🎨 I like designing & implementing UI
 - 🧑‍🍳 [I enjoy cooking](https://github.com/asasinmode/recipemode)
